@@ -6,7 +6,7 @@ const b = '1111';
 const b1 = '2222';
 
 const getUserName = () => {
-    return 'NAME';
+    return 'TEST NAME';
 };
 
 console.log(getUserName());
